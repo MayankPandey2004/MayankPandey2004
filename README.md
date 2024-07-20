@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJs Projects**
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for collaborate in **Projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mayankpandey2004.github.io/Personal-Portfolio/)
 
