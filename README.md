@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on **ReactJs Projects**
+- 👯 I’m looking to collaborate on **ReactJs/Native Projects**
 
-- 🤝 I’m looking for collaborate in **Projects**
+- 🤝 I’m looking for help in **Backend**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mayankpandey2004.github.io/Personal-Portfolio/)
 
