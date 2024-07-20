@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **ReactJs/Native Projects**
 
-- 🤝 I’m looking for help in **Backend**
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mayankpandey2004.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me **mayank.official2004@gmail.com**
