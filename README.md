@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **mayank.official2004@gmail.com**
 
-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MayankPandey2004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TechMayank2004) 
 
