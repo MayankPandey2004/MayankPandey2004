@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="=left">Hi 👋, I'm Mayank</h1>
+<h3 align="left">A passionate frontend developer</h3>
 
-<p align="right">
+<p align="left">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
-
+<br/>
 - 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **ReactJs/Native Projects**
@@ -27,5 +27,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MayankPandey2004&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
