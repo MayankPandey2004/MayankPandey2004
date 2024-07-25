@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
