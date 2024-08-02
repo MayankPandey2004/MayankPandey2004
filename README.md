@@ -1,5 +1,5 @@
 <h1 align="=left">Hi 👋, I'm Mayank</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<h3 align="left">A passionate Software Developer</h3>
 
 <p align="left">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="400"/>
