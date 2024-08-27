@@ -1,11 +1,4 @@
 <h1 align="=left">Hi 👋, I'm Mayank</h1>
-<h3 align="left">A Passionate Software Developer</h3>
-
-<p align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="400"/>
-</p>
-<br/>
-
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mayankpandey2004.github.io/Personal-Portfolio/)
