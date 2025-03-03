@@ -1,7 +1,6 @@
 <h1 align="=left">Hi 👋, I'm Mayank</h1>
 <h3 align="left">A Passionate Software Developer</h3>
 
-<br/>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mayankpandey2004.github.io/Personal-Portfolio/)
 
